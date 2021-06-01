@@ -1,0 +1,3 @@
+# SpringBoot_Middle_Project_By_MySelf
+SpringBoot中型项目CRUD+验证码
+自己学了springboot框架后做的一个项目，用到了SpringBoot+Mybatis+Thymeleaf+MySQL8.0+SpringMVC,欢迎读者提出宝贵意见！
